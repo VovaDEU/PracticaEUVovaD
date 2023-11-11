@@ -7,3 +7,5 @@
 
 
 Код к этой программе есть в файле main.py.
+
+По ссылке : https://github.com/VovaDEU/PracticaEUVovaD
