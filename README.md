@@ -22,6 +22,7 @@ def guess_number(values1,target_number):
 
     except ValueError:
         print("Будь ласка, введіть ціле число.")
+
 sg.theme('DarkAmber')   # Add a touch of color
 layout = [  [sg.Text('Спробуйте вгадати число від 1 до 100:')],
             [sg.Text('Вгадайте число'), sg.InputText()],
